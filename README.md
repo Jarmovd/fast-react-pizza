@@ -26,6 +26,7 @@ Welcome to the **Fast React Pizza App**! This app is a modern, responsive pizza 
 
 ## Screenshots
 
+![Login](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/login.png)
 ![Main Page](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/main.png)
 ![Menu](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/menu.png)
 ![Cart](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/cart.png)
