@@ -1,6 +1,6 @@
 # Fast React Pizza App
 
-[![Fast React Pizza Co](https://github.com/user-attachments/assets/52c42106-f19a-43b8-afee-36c1a2a3995a)](https://fast-react-pizza-jvd.vercel.app/)
+[![Fast React Pizza Co](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/main.png)](https://fast-react-pizza-jvd.vercel.app/)
 
 Welcome to the **Fast React Pizza App**! This app is a modern, responsive pizza ordering application built with React. You can view the live app [here](https://fast-react-pizza-jvd.vercel.app/).
 
@@ -21,22 +21,23 @@ Welcome to the **Fast React Pizza App**! This app is a modern, responsive pizza 
 - **Ordering system**: Easily add pizzas to your cart and place orders.
 - **State management**: Efficiently manages app state using Redux and Redux Toolkit.
 - **Advanced routing**: Utilizes advanced React Router for smooth navigation and routing.
+- **Fast development**: Built with Vite for rapid development and optimized build.
+- **Styling**: Styled using Tailwind CSS for a sleek and modern look.
 
 ## Screenshots
 
-![Fast React Pizza Co](https://github.com/user-attachments/assets/52c42106-f19a-43b8-afee-36c1a2a3995a)
-![Fast React Pizza Co  (1)](https://github.com/user-attachments/assets/1f003942-b722-4cfd-ba1e-cf59896e6031)
-![Fast React Pizza Co  (2)](https://github.com/user-attachments/assets/2f372356-b3fe-432f-a9a9-2792fa21ec9a)
-![Fast React Pizza Co  (3)](https://github.com/user-attachments/assets/263191ee-21a9-4dbe-8565-78f9b93e3110)
-![Fast React Pizza Co  (4)](https://github.com/user-attachments/assets/e0131b96-ff93-41a2-9749-f8b818aedee2)
-![Fast React Pizza Co  (5)](https://github.com/user-attachments/assets/5d51facc-52c2-4747-a961-dc4b2e1439e4)
+![Main Page](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/main.png)
+![Menu](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/menu.png)
+![Cart](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/cart.png)
+![Checkout](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/checkout.png)
+![Order Confirmation](https://github.com/Jarmovd/fast-react-pizza/blob/main/screenshots/order-confirmation.png)
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/fast-react-pizza-app.git
-    cd fast-react-pizza-app
+    git clone https://github.com/Jarmovd/fast-react-pizza.git
+    cd fast-react-pizza
     ```
 
 2. Install dependencies:
@@ -48,24 +49,8 @@ Welcome to the **Fast React Pizza App**! This app is a modern, responsive pizza 
 
 1. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
-
-2. Open your browser and navigate to:
-    ```
-    http://localhost:3000
-    ```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
 
 ## License
 
